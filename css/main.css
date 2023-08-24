@@ -182,7 +182,7 @@ p.lead {
   font-family: "lora-regular", serif;
   font-size: 2rem;
   line-height: 1.8;
-  color: #29524a;
+  color: #783f04;
 }
 @media only screen and (max-width: 768px) {
   p.lead {
@@ -244,7 +244,7 @@ blockquote cite:before {
 }
 blockquote cite a,
 blockquote cite a:visited {
-  color: #29524a;
+  color: #783f04;
   border: none;
 }
 abbr {
@@ -252,7 +252,7 @@ abbr {
   font-variant: small-caps;
   text-transform: lowercase;
   letter-spacing: 0.05rem;
-  color: #29524a;
+  color: #783f04;
 }
 var,
 kbd,
@@ -991,7 +991,7 @@ input::-moz-focus-inner {
   margin: 0.6rem 0 0 0;
   font-size: 1.4rem;
   font-family: "poppins-regular", sans-serif;
-  color: #29524a;
+  color: #783f04;
 }
 
 /**
@@ -1121,7 +1121,7 @@ input::-moz-focus-inner {
   background: #ebebeb;
 }
 .grey-section p.lead {
-  color: #29524a;
+  color: #783f04;
 }
 .section-intro {
   max-width: 700px;
@@ -1235,7 +1235,7 @@ header .logo a {
 }
 .menu-toggle span {
   display: block;
-  background-color: #29524a;
+  background-color: #783f04;
   width: 60px;
   height: 3px;
   margin-top: -1.5px;
@@ -1647,7 +1647,7 @@ header .logo a {
 .about-content .info-list li span {
   display: block;
   font-family: "poppins-regular", sans-serif;
-  color: #29524a;
+  color: #783f04;
   font-size: 1.5rem;
   line-height: 1;
 }
@@ -1731,7 +1731,7 @@ header .logo a {
   text-align: center;
 }
 #resume .resume-header h2 {
-  color: #29524a;
+  color: #783f04;
 }
 
 #resume .resume-timeline {
@@ -1787,7 +1787,7 @@ header .logo a {
 #resume .timeline-header p {
   font-family: "poppins-regular", sans-serif;
   font-size: 1.6rem;
-  color: #29524a;
+  color: #783f04;
 }
 #resume .timeline-content {
   margin-left: 35%;

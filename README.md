@@ -12,4 +12,4 @@ Color Palette:
 #CCAD00 Metallic Gold
 
 #5C6F68 Feldgrau
-#29524A Brunswick Green
+#783f04 Brunswick Green
